@@ -2,11 +2,11 @@
 
 ## Full Stack Web Developer | Passionate About Building Scalable Web Applications 🚀
 
-I am a Full Stack Web Developer with expertise in building modern and responsive web applications using **JavaScript**, **React**, **Next.js**, **Node.js**, **MongoDB**, and more. I am constantly learning new technologies and pushing the boundaries of what I can create.
+I am a Full Stack Web Developer with expertise in building modern and responsive web applications using **React**, **Node.js**, **PostgreSQL**, **Docker**, **Kubernetes**,and more. I am constantly learning new technologies and pushing the boundaries of what I can create.
 
 ### Technologies & Tools 🛠️
 - **Frontend**: HTML5, CSS3, TailwindCSS, React, Next.js, TypeScript
-- **Backend**: Node.js, Express.js, PostgreSQL, REST APIs, GraphQL
+- **Backend**: Node.js, Express.js, REST APIs, GraphQL
 - **Database**:   MongoDB, MySQL, SQL, PostgreSQL 
 - **Others**: Apache Kafka, Kubernetes
 - **Version Control**: Git, GitHub
