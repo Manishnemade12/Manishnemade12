@@ -14,9 +14,9 @@ I am a Full Stack Web Developer with expertise in building modern and responsive
 - **Other**: Cloudinary (Image hosting), Prisma, Webpack, Nginx
 
 ### 🔥 Things I’m working on:
-- Building scalable web applications using the **MERN** stack (MongoDB, Express.js, React, Node.js)
+- Building scalable web applications using the **MERN** stack with Combination of **DevOps**(MongoDB, Express.js, React, Node.js, Docker, Kubernetes) and Apache Kafka for building real-time streaming data pipelines
 - Improving performance and user experience with server-side rendering in **Next.js**
-- Creating RESTful APIs and exploring **GraphQL**
+- Creating **RESTful APIs** and exploring  **Apache Kafka** for real-time data streaming and event-driven architectures
 
 ### 📈 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&hide=prs&count_private=true&hide_title=true)
