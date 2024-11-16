@@ -8,7 +8,7 @@ I am a Full Stack Web Developer with expertise in building modern and responsive
 - **Frontend**: HTML5, CSS3, TailwindCSS, React, Next.js, TypeScript
 - **Backend**: Node.js, Express.js, REST APIs, GraphQL
 - **Database**:   MongoDB, MySQL, SQL, PostgreSQL 
-- **Others**: Apache Kafka, Kubernetes
+- **Others**: Apache Kafka, Kubernetes, java, C++
 - **Version Control**: Git, GitHub
 - **Deployment & CI/CD**: Docker, Heroku, Vercel, Netlify, AWS
 - **Other**: Cloudinary (Image hosting), Prisma, Webpack, Nginx
@@ -31,9 +31,8 @@ I am a Full Stack Web Developer with expertise in building modern and responsive
 
 ### Blog Posts ✍️
 
-I also write about web development, React, and backend best practices. Here are a few of my blog posts:
+I also write about web development, React, and backend best practices on my personal website.
 
-- [Blog Post 1 Title](link)
-- [Blog Post 2 Title](link)
+- ( browse it)
 
 ---
