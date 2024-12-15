@@ -1,4 +1,4 @@
-# Hi there, I'm [Manish Nemade] 👋
+# Hi there, I'm Manish Nemade 👋
 
 ## Full Stack Web Developer | Passionate About Building Scalable Web Applications 🚀
 
@@ -6,12 +6,11 @@ I am a Full Stack Web Developer with expertise in building modern and responsive
 
 ### Technologies & Tools 🛠️
 - **Frontend**: HTML5, CSS3, TailwindCSS, React, Next.js, TypeScript
-- **Backend**: Node.js, Express.js, REST APIs, GraphQL
+- **Backend**: Node.js, Express.Js
 - **Database**:   MongoDB, MySQL, SQL, PostgreSQL 
 - **Others**: Apache Kafka, Kubernetes, java, C++
-- **Version Control**: Git, GitHub
 - **Deployment & CI/CD**: Docker, Heroku, Vercel, Netlify, AWS
-- **Other**: Cloudinary (Image hosting), Prisma, Webpack, Nginx
+- **Other**: Cloudinary, Prisma, Webpack, Nginx
 
 ### 🔥 Things I’m working on:
 - Building scalable web applications using the **MERN** stack with Combination of **DevOps**(MongoDB, Express.js, React, Node.js, Docker, Kubernetes) and Apache Kafka for building real-time streaming data pipelines
