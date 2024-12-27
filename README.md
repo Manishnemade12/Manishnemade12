@@ -24,7 +24,7 @@ I am a Full Stack Web Developer with expertise in building modern and responsive
 - **LinkedIn**: [linkedin.com/in/YourLinkedIn](https://www.linkedin.com/in/YourLinkedIn)
 - **Twitter**: [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
 - **Email**: your.email@example.com
-- **Website/Portfolio**: [your-portfolio.com](https://manish-portfolio-6mbj.vercel.app/)
+- **Website/Portfolio**: [ManishNemade-portfolio.com](https://manish-portfolio-6mbj.vercel.app/)
 
 ---
 
