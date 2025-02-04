@@ -27,10 +27,4 @@ I am a MERN Stack Developer with expertise in React, Node.js, MongoDB, Express, 
 
 ---
 
-### Blog Posts ✍️
 
-I also write about web development, React, and backend best practices on my personal website.
-
-- https://manish-portfolio-6mbj.vercel.app/ ( browse it)
-
----
