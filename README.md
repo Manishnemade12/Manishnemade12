@@ -2,17 +2,17 @@
 
 ## Full Stack Web Developer Skilled in Devops | Passionate About Building Scalable Web Applications 🚀
 
-I am a Full Stack Web Developer with expertise in building modern and responsive web applications using **React**, **Node.js**, **PostgreSQL**, **Docker**, **Kubernetes**,and more. I am constantly learning new technologies and pushing the boundaries of what I can create.
+I am a MERN Stack Developer with expertise in React, Node.js, MongoDB, Express, and DevOps tools like Docker, Kubernetes, and CI/CD. I specialize in building scalable, modern, and responsive web applications while optimizing deployment pipelines.
 
 ### Technologies & Tools 🛠️
 - **Frontend**: HTML5, CSS3, TailwindCSS, React, Next.js, TypeScript
 - **Backend**: Express.js
-- **Database**: MongoDB, MySQL, SQL, PostgreSQL 
-- **Others**: Apache Kafka, Kubernetes, Docker , Jenkins
-- **Deployment & CI/CD**: Heroku, Vercel, Netlify, AWS
+- **Database**: MongoDB, SQL, PostgreSQL 
+- **Others**: Kubernetes, Docker , Jenkins
+- **Deployment & CI/CD**: Heroku, Vercel, Netlify
 
 ### 🔥 Things I’m working on:
-- Building scalable web applications using the **MERN** stack with Combination of **DevOps**(MongoDB, Express.js, React, Node.js, Docker, Kubernetes) and Apache Kafka for building real-time streaming data pipelines
+- Building scalable web applications using the **MERN** stack with Integration of **DevOps**(MongoDB, Express.js, React, Node.js, Docker, Kubernetes) and Apache Kafka for building real-time streaming data pipelines
 - Improving performance and user experience with server-side rendering in **Next.js**
 - Creating **RESTful APIs** and exploring  **Apache Kafka** for real-time data streaming and event-driven architectures
 
