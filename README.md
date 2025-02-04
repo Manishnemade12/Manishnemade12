@@ -17,7 +17,7 @@ I am a Full Stack Web Developer with expertise in building modern and responsive
 - Creating **RESTful APIs** and exploring  **Apache Kafka** for real-time data streaming and event-driven architectures
 
 ### 📈 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&hide=prs&count_private=true&hide_title=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Manishnemade12&show_icons=true&hide=prs&count_private=true&hide_title=true)
 
 ### 🚀 Connect with me:
 - **LinkedIn**: [linkedin.com/in/YourLinkedIn](https://www.linkedin.com/in/YourLinkedIn)
