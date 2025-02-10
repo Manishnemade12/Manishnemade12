@@ -20,7 +20,7 @@ I am a MERN Stack Developer with expertise in React, Node.js, MongoDB, Express, 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Manishnemade12&show_icons=true&hide=prs&count_private=true&hide_title=true)
 
 ### 🚀 Connect with me:
-- **LinkedIn**: [linkedin.com/in/YourLinkedIn](https://www.linkedin.com/in/YourLinkedIn)
+- **LinkedIn**: [linkedin.com/in/YourLinkedIn](https://www.linkedin.com/in/manish-nemade-aaa69b28a/)
 - **Twitter**: [Manish_Nemade](https://twitter.com/YourTwitterHandle)
 - **Email**: Mnemade140@gmail.com
 - **Website/Portfolio**: [ManishNemade-portfolio.com](https://manish-portfolio-6mbj.vercel.app/)
