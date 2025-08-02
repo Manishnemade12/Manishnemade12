@@ -3,6 +3,8 @@
 ## 🚀 Full Stack Web Developer | DevOps Enthusiast | Scalable Web Architect
 
 I’m a **MERN Stack Developer** with a passion for building modern, responsive, and scalable web applications. My stack includes **React**, **Node.js**, **MongoDB**, and **Express**, along with DevOps tools like **Docker**, **Kubernetes**, and **CI/CD pipelines**.
+--
+GSSOC'25 | OSCI'25 | HackerRank 4⭐(problem solving) | Codeforces(450 rating) .
 
 ---
 
