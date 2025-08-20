@@ -19,7 +19,7 @@ GSSOC'25 | OSCI'25 | HackerRank 4⭐(Problem solving) | Codeforces(450 rating) .
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
 
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)
-![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat&logo=express)
+![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat&logo=Java)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)
 
