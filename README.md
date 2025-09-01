@@ -46,7 +46,7 @@ GSSOC'25 | OSCI'25 | HackerRank 4⭐(Problem solving) | Codeforces(450 rating) .
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Manishnemade12&show_icons=true&theme=tokyonight&hide=prs&count_private=true" height="165px"/>
-<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manishnemade12&layout=compact&theme=tokyonight" height="165px"/> -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manishnemade12&layout=compact&theme=tokyonight" height="165px"/>
 </p>
 
 <p align="center">
