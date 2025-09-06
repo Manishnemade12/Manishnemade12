@@ -53,6 +53,7 @@ GSSOC'25 | OSCI'25 | HackerRank 4⭐(Problem solving) | Codeforces(450 rating) .
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Manishnemade12&theme=tokyonight" />
 </p>
 
+https://visitor-badge.laobi.icu/badge?page_id=ManishNemade12.ManishNemade12
 ---
 
 ### 🤝 Connect With Me
