@@ -4,7 +4,7 @@
 
 I’m a **Full Stack Developer** with a passion for building modern, responsive, and scalable web applications. My stack includes **React**, **Node.js**, **MongoDB**, and **Express**, along with DevOps tools like **Docker**, **Kubernetes**, and **CI/CD pipelines**.
 --
-GSSOC'25 | OSCI'25 | HackerRank 4⭐(Problem solving) | Codeforces(450 rating) .
+GSSOC'25 | OSCI'25 | HackerRank 4⭐(Problem solving) | Codeforces(1348 rating) .
 
 ---
 
