@@ -64,4 +64,4 @@ GSSOC'25 | OSCI'25 | HackerRank 4⭐(Problem solving) | Codeforces(1348 rating) 
 
 ---
 
-_Thank you for visiting my profile! Let’s build something amazing together!_ 🚀
+_Thank you for visiting my profile! Let’s build something amazing together!_ 🚀 
