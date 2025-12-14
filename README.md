@@ -1,8 +1,8 @@
 # 👋 Hi there, I'm **Manish Nemade**
 
-## 🚀 Full Stack Web Developer | DevOps Enthusiast | Scalable Web Architect
+## 🚀 Full Stack Web Developer | Scalable Web Architect
 
-I’m a **Full Stack Developer** with a passion for building modern, responsive, and scalable web applications. My stack includes **React**, **Node.js**, **MongoDB**, and **Express**, along with DevOps tools like **Docker**, **Kubernetes**, and **CI/CD pipelines**.
+I’m a **Full Stack Developer** with a passion for building modern, responsive, and scalable web applications. My stack includes **React**, **Node.js**, **MongoDB**, and **Express** .
 --
 GSSOC'25 | OSCI'25 | HackerRank 4⭐(Problem solving) | Codeforces(1348 rating) .
 
@@ -22,10 +22,6 @@ GSSOC'25 | OSCI'25 | HackerRank 4⭐(Problem solving) | Codeforces(1348 rating) 
 ![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat&logo=Java)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)
-
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes)
-![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins)
 
 ![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel)
 ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat&logo=netlify)
