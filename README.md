@@ -38,18 +38,6 @@ HackerRank 4⭐(Problem solving) | Codeforces(1348 rating) .
 
 ---
 
-### 📈 GitHub Stats & Contributions
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Manishnemade12&show_icons=true&theme=tokyonight&hide=prs&count_private=true" height="165px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manishnemade12&layout=compact&theme=tokyonight" height="165px"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Manishnemade12&theme=tokyonight" />
-</p>
-
-
 
 ### 🤝 Connect With Me
 
