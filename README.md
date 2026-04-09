@@ -38,6 +38,12 @@ HackerRank 4⭐(Problem solving) | Codeforces(1348 rating) .
 
 ---
 
+## 🔥 Streak Stats
+
+![GitHub Streak](https://streak-stats.demolab.com?user=ManishNemade12&theme=radical)
+
+---
+
 
 ### 🤝 Connect With Me
 
