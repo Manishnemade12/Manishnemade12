@@ -1,6 +1,6 @@
   # 👋 Hi there, I'm **Manish Nemade**
 ## 🚀 Full Stack Web Developer | Scalable Web Architect
-I'm a **Full Stack Developer** with a passion for building modern, responsive, and scalable web applications. My stack includes **React**, **Node.js**, **MongoDB**,  **Java and Go** .
+I'm a **Full Stack Developer** with a passion for building modern, responsive, and scalable web applications. My stack includes **Java**, **Go**, **React**, **MongoDB** and **postgreSQL .
 --
 HackerRank 4⭐(Problem solving) | Codeforces(1348 rating) .
 ---
