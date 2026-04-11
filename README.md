@@ -21,7 +21,7 @@ HackerRank 4⭐(Problem solving) | Codeforces(1348 rating) .
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku)
 ---
 ### 🔥 Currently Working On:
-- 🚧 Building **scalable web apps** with **MERN + DevOps** stack  
+- 🚧 Building **scalable web apps** with **Golang + DevOps** stack  
 - 🌐 Leveraging **Next.js SSR** to boost performance & SEO  
 - ⚙️ Integrating **Apache Kafka** for real-time streaming and event-driven architecture  
 - 🔌 Designing **RESTful APIs** with optimal performance
