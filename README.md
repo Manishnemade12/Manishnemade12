@@ -21,10 +21,9 @@ HackerRank 4⭐(Problem solving) | Codeforces(1348 rating) .
 ---
 ## 🔥 GitHub Stats
 
-<p align="left">
+<p align="center">
   <img src="https://streak-stats.demolab.com?user=ManishNemade12&theme=radical" alt="GitHub Streak" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManishNemade12&layout=compact&theme=radical" alt="Most Used Languages" />
 </p>
 
 ---
