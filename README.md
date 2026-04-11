@@ -17,7 +17,7 @@
 
 Hey! I'm **Manish Nemade**, a passionate **Full Stack Developer** from India 🇮🇳 who loves building modern, scalable web applications and contributing to open source.
 
-I specialize in crafting robust backend systems with **Go & Java**, designing seamless frontends with **React & Next.js**, and architecting real-time data pipelines using **Apache Kafka**. I'm also an active open source contributor at **[Layer5](https://layer5.io)** and **[Meshery](https://meshery.io)** .
+I specialize in crafting robust backend systems with **Go & Java**, designing seamless frontends with **React & Next.js**, and architecting real-time data pipelines using **Apache Kafka**. I'm also an active open source contributor .
 
 ---
 
