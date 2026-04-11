@@ -55,10 +55,6 @@ I specialize in crafting robust backend systems with **Go & Java**, designing se
 | <img src="https://avatars.githubusercontent.com/u/53169624?s=20&v=4" width="18"/> &nbsp; **[Layer5](https://layer5.io)** | Cloud Native Ecosystem | Open Source Developer |
 | <img src="https://avatars.githubusercontent.com/u/61045043?s=20&v=4" width="18"/> &nbsp; **[Meshery](https://meshery.io)** | Cloud Native Management Plane | Open Source Developer |
 
-[![Layer5](https://img.shields.io/badge/Layer5-Contributor-00B39F?style=flat-square&logo=github)](https://github.com/layer5io)
-[![Meshery](https://img.shields.io/badge/Meshery-Contributor-00B39F?style=flat-square&logo=github)](https://github.com/meshery/meshery)
-[![CNCF](https://img.shields.io/badge/CNCF-Sandbox%20Project-0086FF?style=flat-square&logo=cncf)](https://cncf.io)
-
 </div>
 
 ---
@@ -96,7 +92,6 @@ I specialize in crafting robust backend systems with **Go & Java**, designing se
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://manish-portfolio-6mbj.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Mnemade140@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YourTwitterHandle)
-[![Layer5 Slack](https://img.shields.io/badge/Layer5%20Community-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://slack.layer5.io)
 
 </div>
 
