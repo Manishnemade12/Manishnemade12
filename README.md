@@ -84,6 +84,12 @@ I specialize in crafting robust backend systems with **Go & Java**, designing se
 
 ---
 
+
+## 🚀 IGNITE's CODING ACTIVITY
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ManishNemade12&bg_color=0b0f1a&color=a855f7&line=a855f7&point=ffffff&area=true&area_color=2a003f&hide_border=true" />
+
+
 ## 🤝 Connect With Me
 
 <div align="center">
@@ -108,3 +114,5 @@ I specialize in crafting robust backend systems with **Go & Java**, designing se
 ![Profile Views](https://komarev.com/ghpvc/?username=ManishNemade12&color=00ADD8&style=flat-square)
 
 </div>
+
+
