@@ -84,7 +84,6 @@ I specialize in crafting robust backend systems with **Go & Java**, designing se
 
 ---
 
-
 ## 🚀 IGNITE's CODING ACTIVITY
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ManishNemade12&bg_color=0b0f1a&color=7dd3fc&line=7dd3fc&point=ffffff&area=true&area_color=082f49&hide_border=true" />
