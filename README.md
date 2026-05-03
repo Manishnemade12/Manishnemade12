@@ -13,7 +13,6 @@
 
 ---
 
-
 ## 👋 About Me
 
 Hey! I'm **Manish Nemade**, a passionate **Full Stack Developer** from India 🇮🇳 who loves building modern, scalable web applications and contributing to open source.
