@@ -3,7 +3,6 @@
 <!-- Animated Header Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00ADD8,50:6EE7F7,100:61DAFB&height=200&section=header&text=Manish%20Nemade&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Open%20Source%20Contributor&descAlignY=60&descColor=d0f0ff" />
 
-
 </div>
 
 <div align="center">
